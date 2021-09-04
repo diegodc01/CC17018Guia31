@@ -1,0 +1,6 @@
+/* ejemplo1a.css   CC17018  */
+pais {background-color:white; color:black; font-size:1cm}
+departamento {background-color:red; display:block;color:blue} 
+cabecera {color:gray; display:inline;} 
+habitantes {color:gray; display:inline;}
+altura {color:gray; display:inline;}

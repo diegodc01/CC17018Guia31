@@ -1,0 +1,9 @@
+/* ejemplo1a.css   CC17018  */
+pais {background-color:white; color:black;display:inline}
+departamento {background-color:red; display:block;color:blue} 
+cabecera {color:gray; display:inline;} 
+habitantes {color:gray; display:inline;}
+altura {color:gray; display:inline;}
+moneda {color:yellow; display:inline}
+codigoTelefonico {color:blue;display:inline}
+idioma {color:gray; display:inline}

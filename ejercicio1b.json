@@ -1,0 +1,32 @@
+{
+	"fichero":{"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Diego",
+				"apellido":"Castro",
+				"direccion":"Calle Juan Mora #207",
+				"telefono":"76294906",
+				"email":"diegodcc01@gmail.com"
+			},
+			{
+				"@id":"3",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Juan",
+				"apellido":"Perez",
+				"direccion":"Canton la esperanza #20",
+				"telefono":"76304589",
+				"email":"juanito@gmail.com",
+				"isss":"616165",
+				"dui":"6823665655",
+				"afp":"553545"
+			}
+		]}
+}

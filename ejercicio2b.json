@@ -1,0 +1,37 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM",
+				"moneda":"el dolar",
+				"codigoTelefonico":"503",
+				"idioma":"español"
+			},
+			{
+				"@id":"2",
+				"@nombre":"San Miguel",
+				"cabecera":"San Miguel",
+				"habitantes":"1000000",
+				"altura":"545 MSNM",
+				"moneda":"el cacao",
+				"codigoTelefonico":"503",
+				"idioma":"nahuatl"
+			},
+			{
+				"@id":"3",
+				"@nombre":"Cabañas",
+				"cabecera":"Sensuntepeque",
+				"habitantes":"0",
+				"altura":"desconocida",
+				"moneda":"desconocida",
+				"codigoTelefonico":"sin señal",
+				"idioma":"no identificado"
+			}
+		]
+	}
+}
